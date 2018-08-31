@@ -1,0 +1,8 @@
+<div1 type=Errata>
+<head>Errata.</head>
+
+
+<p>Bl. 115 staat <hi rend=sc>Schoockhus</hi>, lees <hi rend=sc>Schoockius</hi>.
+<lb>Bl. 231 staat <hi rend=expanded>Balspelen</hi>, lees <hi rend=expanded>Bolspelen</hi>.
+<lb>Bl. 285 staat <hi rend=sc>B&uuml;cker</hi>, lees <hi rend=sc>B&uuml;cher</hi>.
+
